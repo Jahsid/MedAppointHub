@@ -351,7 +351,7 @@ const slotList = async (req, res) => {
 };
 
 
-const stripe = require('stripe')('sk_test_51OIn6JSGxvp5pPKvKDRLk0eSdUKaFzQwiFZDUio38fbV98ejXN7w9rgokn1YyxAIWTxMXm6ev5NDqJluUQtp86kB00Fq1zjAPt');
+const stripe = require('stripe')('sk_test_51OaBVGSEDJQvVEnTCopNSJeGOfPlQ7uFxOQxLIOtsZ2dTxCBlEdAMsEUtFpNjYURTpowTLmfmoyDBPzTKW8BN6WW008FBH6u52');
 
 const makePayment = async (req, res) => {
     try {
@@ -371,15 +371,20 @@ const makePayment = async (req, res) => {
             ],
             mode: 'payment',
             success_url: `http://localhost:3000/success?status=true&success&_id=${_id}&drId=${drId}&select=${select}&date=${selectedDate}`,
-            cancel_url: `https://localhost:3000/doctordetails/${_id}`, 
+            cancel_url: `http://localhost:3000/doctordetails`, 
 
         });
 
 
         res.status(200).json({ session });
     } catch (error) {
-        console.error(error.message);
-        res.status(500).json({ error: 'An error occurred while processing the payment.' });
+        if (error.type === 'StripeInvalidRequestError' && error.code === 'resource_missing' && error.param === 'price') {
+            console.error(`Error: No such price - ${error.message}`);
+            res.status(400).json({ error: 'Invalid price ID specified.' });
+        } else {
+            console.error(error.message);
+            res.status(500).json({ error: 'An error occurred while processing the payment.' });
+        }
     }
 };
 

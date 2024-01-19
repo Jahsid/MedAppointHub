@@ -27,7 +27,7 @@ const DoctorDetails = () => {
     const { _id } = useSelector((state) => state.reducer.userReducer.user);
 
     const price = {
-        id: 'price_1OJ8AOSGxvp5pPKvCJFkai6w',
+        id: 'price_1OaMLaSEDJQvVEnTs3O17GkJ',
         amount: 299,
     };
 
