@@ -16,6 +16,7 @@ const Chat = () => {
   const [currentChat, setCurrentChat] = useState(null);
   const [messages, setMessages] = useState([]);
   const { _id } = useSelector((state) => state.reducer.userReducer.user);
+  console.log("Hello",_id);
   const userId = _id;
 
   useEffect(() => {

@@ -41,7 +41,6 @@ const userRoute = () => {
       <Route path='/chatuser' element={<UserProtect><ChatPage /></UserProtect>} />
       <Route path='/prescription' element={<UserProtect><PrescriptionPage /></UserProtect>} />
       <Route path='/medicalreport' element={<UserProtect><MedicalReportPage /></UserProtect>} />
-      <Route path='/medicalreport' element={<UserProtect><MedicalReportPage /></UserProtect>} />
       <Route path="*" element={<Error404 />} />
       <Route path="/pageNotFound" element={<Error404 />} />
       <Route path="/internalError" element={<Error500 />} />
