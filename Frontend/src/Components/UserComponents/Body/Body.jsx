@@ -1,6 +1,6 @@
 import React from 'react';
 // import { useNavigate } from 'react-router-dom';
-import banner from '../../../Assets/image/home.jpeg';
+import banner from '../../../Assets/image/landing.jpg';
 import Speciality from '../../../Components/UserComponents/Speciality/Speciality';
 import { Link } from 'react-router-dom';
 
@@ -23,7 +23,7 @@ const Body = () => {
 
         <div
           className='text-white text-3xl md:text-4xl lg:text-5xl absolute top-0 left-0 w-full h-full flex items-center justify-center'
-          style={{ backgroundColor: 'rgba(0, 0, 0, 0.4)' }}
+          style={{ backgroundColor: 'rgba(0, 0, 0, 0.6)' }}
         >
           <div className='row'>
             <div className='col-md-6'>
