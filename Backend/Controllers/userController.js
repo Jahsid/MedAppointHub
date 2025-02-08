@@ -172,7 +172,7 @@ const forgotPass = async (req, res) => {
             from: process.env.EMAIL,
             to: email,
             subject: "Forgot password",
-            text: `http://localhost:3000/resetpassword/${isUser._id}/${token}`,
+            text: `https://heartfelt-custard-a3b705.netlify.app/resetpassword/${isUser._id}/${token}`,
         };
 
         transporter.sendMail(mailOptions, function (error, info) {
@@ -370,8 +370,8 @@ const makePayment = async (req, res) => {
                 },
             ],
             mode: 'payment',
-            success_url: `http://localhost:3000/success?status=true&success&_id=${_id}&drId=${drId}&select=${select}&date=${selectedDate}`,
-            cancel_url: `http://localhost:3000/doctordetails`, 
+            success_url: `https://heartfelt-custard-a3b705.netlify.app/success?status=true&success&_id=${_id}&drId=${drId}&select=${select}&date=${selectedDate}`,
+            cancel_url: `https://heartfelt-custard-a3b705.netlify.app/doctordetails`, 
 
         });
 

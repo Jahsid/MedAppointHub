@@ -3,7 +3,7 @@ const { Server } = require("socket.io");
 function socketConnection(server) {
   const io = new Server(server, {
     cors: {
-      origin: "http://localhost:3000",
+      origin: "https://heartfelt-custard-a3b705.netlify.app",
       // origin: "http://localhost:3000",
       methods: ["GET", "POST"],
     },

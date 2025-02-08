@@ -16,7 +16,7 @@ app.use(express.urlencoded({ limit: "20mb", extended: true }))
 // Enable CORS for specific origin and methods
 app.use(
   cors({
-    origin: "http://localhost:3000",
+    origin: "https://heartfelt-custard-a3b705.netlify.app",
     // origin: "http://localhost:3000",
     methods: ["GET", "POST", "PUT", "PATCH"],
     credentials: true, // Set to true if you need to include credentials
