@@ -1,7 +1,8 @@
 import axios from 'axios';
 import Swal from 'sweetalert2';
 
-const baseURL = 'http://localhost:3001/';
+const baseURL = process.env.REACT_APP_BASE_URL;
+// const baseURL = 'http://localhost:3001/';
 // const baseURL = 'http://localhost:3001/';
 
 const userBaseURL = baseURL;

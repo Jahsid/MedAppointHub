@@ -5,7 +5,7 @@ import ChatList from '../../Doctor/ChatList/ChatList';
 import ChatBox from '../../Doctor/ChatBox/ChatBox';
 import { io } from 'socket.io-client';
 
-const END_POINT = 'http://localhost:3001/';
+const END_POINT = process.env.REACT_APP_BASE_URL;
 // const END_POINT = 'http://localhost:3001/';
 let socket
 
