@@ -16,19 +16,18 @@ const adminLogin = async (req, res) => {
         const adminPassword = process.env.ADMIN_PASSWORD;
         const { username, password } = req.body;
 
-        if (username === adminUsername) {
-            const passCheck = await bcrypt.compare(password, adminPassword);
-
-            if (passCheck) {
-                const admintoken = jwt.sign({ username ,role:'admin' }, process.env.SECRET_KEY_ADMIN, { expiresIn: "1h" });
-                res.header('admintoken', admintoken);
-                res.status(200).json({ admintoken, message: `Welcome ${username}` });
-            } else {
-                return res.status(400).json({ message: "Password is incorrect" });
-            }
-        } else {
-            return res.status(400).json({ message: "Invalid username" });
+        if (username !== adminUsername) {
+            return res.status(400).json({ message: "Invalid username or password" });
         }
+
+        if (password !== adminPassword) {
+            return res.status(400).json({ message: "Invalid username or password" });
+        }
+
+        const admintoken = jwt.sign({ username, role: "admin" }, process.env.SECRET_KEY_ADMIN, { expiresIn: "1h" });
+
+        res.header("admintoken", admintoken);
+        res.status(200).json({ admintoken, message: `Welcome ${username}` });
 
     } catch (error) {
         console.log(error.message);
