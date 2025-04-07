@@ -6,8 +6,8 @@ const baseURL = process.env.REACT_APP_BASE_URL;
 // const baseURL = 'http://localhost:3001/';
 
 const userBaseURL = baseURL;
-const doctorBaseURL = `${baseURL}/doctor`;
-const adminBaseURL = `${baseURL}/admin`;
+const doctorBaseURL = `${baseURL}doctor`;
+const adminBaseURL = `${baseURL}admin`;
 
 const createAxiosInstance = (baseURL) => {
     const instance = axios.create({
@@ -74,11 +74,11 @@ const handleAxiosError = (error, role) => {
                 icon: 'error',
                 title: error.response.data.message,
             });
-            if (role === "user") {
-                window.location.href = `/pageNotFound`;
-            } else {
-                window.location.href = `/${role}/pageNotFound`;
-            }
+            // if (role === "user") {
+            //     window.location.href = `/pageNotFound`;
+            // } else {
+            //     window.location.href = `/${role}/pageNotFound`;
+            // }
 
         } else if (error.response.status === 401) {
 

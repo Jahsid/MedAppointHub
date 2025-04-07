@@ -16,12 +16,15 @@ app.use(express.urlencoded({ limit: "20mb", extended: true }))
 // Enable CORS for specific origin and methods
 app.use(
   cors({
-    origin: "https://heartfelt-custard-a3b705.netlify.app",
+    // origin: "https://heartfelt-custard-a3b705.netlify.app",
     // origin: "http://localhost:3000",
+    origin: ['http://localhost:3000', 'https://heartfelt-custard-a3b705.netlify.app'],
     methods: ["GET", "POST", "PUT", "PATCH"],
     credentials: true, // Set to true if you need to include credentials
   })
 );
+
+app.options('*', cors());
 
 const userRoute = require("./Routes/userRoutes")
 app.use("/", userRoute)
