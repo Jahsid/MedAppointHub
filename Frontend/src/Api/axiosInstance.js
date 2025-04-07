@@ -6,8 +6,8 @@ const baseURL = process.env.REACT_APP_BASE_URL;
 // const baseURL = 'http://localhost:3001/';
 
 const userBaseURL = baseURL;
-const doctorBaseURL = `${baseURL}doctor`;
-const adminBaseURL = `${baseURL}admin`;
+const doctorBaseURL = `${baseURL}/doctor`;
+const adminBaseURL = `${baseURL}/admin`;
 
 const createAxiosInstance = (baseURL) => {
     const instance = axios.create({
