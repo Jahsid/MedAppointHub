@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65cdcbbee73fb0469fee2c9f"
+  },
+  "doctorName": "Muhammed Jahsid",
+  "userName": "lisa",
+  "date": "2024 02 12",
+  "medicines": [
+    {
+      "medicine": "Paracetmol",
+      "duration": "7",
+      "frequency": "3"
+    }
+  ],
+  "note": "After food",
+  "appointmentId": "65c8e5b1cc7b4c6ce0907e0d",
+  "createdAt": {
+    "$date": "2024-02-15T08:30:54.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T08:30:54.159Z"
+  },
+  "__v": 0
+}]

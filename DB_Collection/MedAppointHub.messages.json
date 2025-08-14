@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "65c8dfdccc7b4c6ce0907d59"
+  },
+  "chatId": "65c8d4176541fa99abab29f2",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "hi",
+  "createdAt": {
+    "$date": "2024-02-11T14:55:24.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:55:24.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e04fcc7b4c6ce0907d74"
+  },
+  "chatId": "65c8d4176541fa99abab29f2",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "Hello",
+  "createdAt": {
+    "$date": "2024-02-11T14:57:19.313Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:57:19.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e05fcc7b4c6ce0907d78"
+  },
+  "chatId": "65c8d4176541fa99abab29f2",
+  "senderId": "65aaca779979197bef4209cf",
+  "text": "Hi",
+  "createdAt": {
+    "$date": "2024-02-11T14:57:35.162Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:57:35.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e633cc7b4c6ce0907e2a"
+  },
+  "chatId": "65c8e5c1cc7b4c6ce0907e15",
+  "senderId": "65c8e4a7cc7b4c6ce0907de3",
+  "text": "Hi doctor...",
+  "createdAt": {
+    "$date": "2024-02-11T15:22:27.036Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:22:27.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e667cc7b4c6ce0907e42"
+  },
+  "chatId": "65c8e5c1cc7b4c6ce0907e15",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "Hello",
+  "createdAt": {
+    "$date": "2024-02-11T15:23:19.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:23:19.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c913cfa300d59b3c2dfd95"
+  },
+  "chatId": "65c8e5c1cc7b4c6ce0907e15",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "http://localhost:3000/doctor/video?roomID=PQZfh",
+  "createdAt": {
+    "$date": "2024-02-11T18:37:03.561Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T18:37:03.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c913dba300d59b3c2dfd9a"
+  },
+  "chatId": "65c8e5c1cc7b4c6ce0907e15",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "miGHg",
+  "createdAt": {
+    "$date": "2024-02-11T18:37:15.349Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T18:37:15.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c921a1a300d59b3c2dfef6"
+  },
+  "chatId": "65abbfb6490f5829fcd0ed40",
+  "senderId": "65aacb439979197bef4209db",
+  "text": "👍",
+  "createdAt": {
+    "$date": "2024-02-11T19:36:01.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:36:01.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c93256a300d59b3c2dffd1"
+  },
+  "chatId": "65c8d4176541fa99abab29f2",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "http://localhost:3000/doctor/video?roomID=PQZfh",
+  "createdAt": {
+    "$date": "2024-02-11T20:47:18.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T20:47:18.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb7f1699c9b480d0937c90"
+  },
+  "chatId": "65c8d4176541fa99abab29f2",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "http://localhost:3000/doctor/video?roomID=PQZfh",
+  "createdAt": {
+    "$date": "2024-02-13T14:39:18.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T14:39:18.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb7f4699c9b480d0937c98"
+  },
+  "chatId": "65c8d4176541fa99abab29f2",
+  "senderId": "65aaca779979197bef4209cf",
+  "text": "RX0rX",
+  "createdAt": {
+    "$date": "2024-02-13T14:40:06.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T14:40:06.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc60b69560250120f45c80"
+  },
+  "chatId": "65cc60a79560250120f45c76",
+  "senderId": "65cc5fcb9560250120f45c13",
+  "text": "hi",
+  "createdAt": {
+    "$date": "2024-02-14T06:41:58.500Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:41:58.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc60d59560250120f45c8f"
+  },
+  "chatId": "65cc60a79560250120f45c76",
+  "senderId": "65cc5dd99560250120f45b7d",
+  "text": "no",
+  "createdAt": {
+    "$date": "2024-02-14T06:42:29.581Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:42:29.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc61329560250120f45ca3"
+  },
+  "chatId": "65cc60a79560250120f45c76",
+  "senderId": "65cc5dd99560250120f45b7d",
+  "text": "http://localhost:3000/doctor/video?roomID=BK6pw",
+  "createdAt": {
+    "$date": "2024-02-14T06:44:02.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:44:02.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2dbeb087967a337ce392d"
+  },
+  "chatId": "65c8e5c1cc7b4c6ce0907e15",
+  "senderId": "65aa13d67e53dfee02291975",
+  "text": "http://localhost:3000/doctor/video?roomID=ojJrq",
+  "createdAt": {
+    "$date": "2024-02-19T04:41:15.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T04:41:15.440Z"
+  },
+  "__v": 0
+}]

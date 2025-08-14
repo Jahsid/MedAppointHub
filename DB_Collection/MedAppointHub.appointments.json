@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "65aabb5495c5257e7ddb8dcd"
+  },
+  "doctor": {
+    "$oid": "65a9620729004ca58b309838"
+  },
+  "user": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "status": "Pending",
+  "consultationDate": "Sat Jan 20 2024 00:00:00 GMT 0530",
+  "start": "10:00",
+  "end": "10:05",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65aabb5395c5257e7ddb8dc8"
+  },
+  "slotId": "65aa6a401faa46cfafc3196e",
+  "createdAt": {
+    "$date": "2024-01-19T18:11:32.022Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T18:11:32.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aacda39979197bef420a80"
+  },
+  "doctor": {
+    "$oid": "65aacb439979197bef4209db"
+  },
+  "user": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "status": "CancelledByDoctor",
+  "consultationDate": "Mon Jan 22 2024 00:00:00 GMT 0530",
+  "start": "06:40",
+  "end": "06:50",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65aacda39979197bef420a7b"
+  },
+  "slotId": "65aacc7a9979197bef420a1c",
+  "createdAt": {
+    "$date": "2024-01-19T19:29:39.993Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T19:42:40.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abbee7490f5829fcd0ecfa"
+  },
+  "doctor": {
+    "$oid": "65aacb439979197bef4209db"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "status": "Pending",
+  "consultationDate": "2024-02-13",
+  "start": "11:00",
+  "end": "17:00",
+  "rescheduled": true,
+  "paymentId": {
+    "$oid": "65abbee7490f5829fcd0ecf5"
+  },
+  "slotId": "65aacc7a9979197bef420a1c",
+  "createdAt": {
+    "$date": "2024-01-20T12:39:03.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:37:19.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71c615627a9b82e23c3f1"
+  },
+  "doctor": {
+    "$oid": "65aacb439979197bef4209db"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "status": "Pending",
+  "consultationDate": "2024-02-14",
+  "start": "24:30",
+  "end": "24:45",
+  "rescheduled": true,
+  "paymentId": {
+    "$oid": "65c71c615627a9b82e23c3eb"
+  },
+  "slotId": "65c71b9f5627a9b82e23c3a8",
+  "createdAt": {
+    "$date": "2024-02-10T06:49:05.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T17:05:21.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8d3f36541fa99abab29ea"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "status": "Pending",
+  "consultationDate": "Mon Feb 12 2024 00:00:00 GMT 0530",
+  "start": "20:30",
+  "end": "20:35",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65c8d3f36541fa99abab29e6"
+  },
+  "slotId": "65c8d1436541fa99abab2936",
+  "createdAt": {
+    "$date": "2024-02-11T14:04:35.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:04:35.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e5b1cc7b4c6ce0907e0d"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "status": "Done",
+  "consultationDate": "Mon Feb 12 2024 00:00:00 GMT 0530",
+  "start": "00:05",
+  "end": "00:10",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65c8e5b1cc7b4c6ce0907e08"
+  },
+  "slotId": "65c8e240cc7b4c6ce0907dc8",
+  "createdAt": {
+    "$date": "2024-02-11T15:20:17.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:00:39.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb127e4300827e12c8d191"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "status": "Pending",
+  "consultationDate": "Tue Feb 13 2024 00:00:00 GMT 0530",
+  "start": "12:35",
+  "end": "12:40",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65cb127e4300827e12c8d189"
+  },
+  "slotId": "65c9168ba300d59b3c2dfdc9",
+  "createdAt": {
+    "$date": "2024-02-13T06:55:58.954Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T06:55:58.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc60789560250120f45c68"
+  },
+  "doctor": {
+    "$oid": "65cc5dd99560250120f45b7d"
+  },
+  "user": {
+    "$oid": "65cc5fcb9560250120f45c13"
+  },
+  "status": "Pending",
+  "consultationDate": "Thu Feb 15 2024 00:00:00 GMT 0530",
+  "start": "14:30",
+  "end": "14:40",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65cc60789560250120f45c64"
+  },
+  "slotId": "65cc5f2d9560250120f45bf8",
+  "createdAt": {
+    "$date": "2024-02-14T06:40:56.135Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:40:56.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc80346f298da1cb20758c"
+  },
+  "doctor": {
+    "$oid": "65cc5dd99560250120f45b7d"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "status": "Pending",
+  "consultationDate": "Thu Feb 15 2024 00:00:00 GMT 0530",
+  "start": "15:30",
+  "end": "15:40",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65cc80346f298da1cb207588"
+  },
+  "slotId": "65cc5f2d9560250120f45bfe",
+  "createdAt": {
+    "$date": "2024-02-14T08:56:20.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T08:56:20.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cda5da118635e284ad7176"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "status": "Done",
+  "consultationDate": "Thu Feb 15 2024 00:00:00 GMT 0530",
+  "start": "11:30",
+  "end": "11:45",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65cda5da118635e284ad716e"
+  },
+  "slotId": "65cb11cb4300827e12c8d11f",
+  "createdAt": {
+    "$date": "2024-02-15T05:49:14.824Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T08:29:58.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d05a94581d9dc2b995746d"
+  },
+  "doctor": {
+    "$oid": "65aacb439979197bef4209db"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "status": "Pending",
+  "consultationDate": "Sun Feb 18 2024 00:00:00 GMT 0530",
+  "start": "10:00",
+  "end": "10:05",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65d05a94581d9dc2b9957464"
+  },
+  "slotId": "65d054f3581d9dc2b9957334",
+  "createdAt": {
+    "$date": "2024-02-17T07:04:52.765Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-17T07:04:52.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d1f0a42a329cba1f1e6d8b"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "status": "Pending",
+  "consultationDate": "Mon Feb 19 2024 00:00:00 GMT 0530",
+  "start": "17:22",
+  "end": "17:27",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65d1f0a42a329cba1f1e6d82"
+  },
+  "slotId": "65d1ef062a329cba1f1e6c3c",
+  "createdAt": {
+    "$date": "2024-02-18T11:57:24.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-18T11:57:24.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2d9ad087967a337ce389b"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "status": "Pending",
+  "consultationDate": "Mon Feb 19 2024 00:00:00 GMT 0530",
+  "start": "10:10",
+  "end": "17:32",
+  "rescheduled": false,
+  "paymentId": {
+    "$oid": "65d2d9ad087967a337ce3892"
+  },
+  "slotId": "65d1ef062a329cba1f1e6c3d",
+  "createdAt": {
+    "$date": "2024-02-19T04:31:41.986Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T04:31:41.986Z"
+  },
+  "__v": 0
+}]

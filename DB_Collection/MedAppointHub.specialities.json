@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65a9607429004ca58b309823"
+  },
+  "speciality": "Primary",
+  "photo": "https://res.cloudinary.com/dw1jgcrsp/image/upload/v1705599092/specialitysvg/gn2fsczsdubaxbmxyq93.png",
+  "list": true,
+  "createdAt": {
+    "$date": "2024-01-18T17:31:32.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T17:31:32.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a960e829004ca58b309828"
+  },
+  "speciality": "Surgery",
+  "photo": "https://res.cloudinary.com/dw1jgcrsp/image/upload/v1705599208/specialitysvg/rr5colxrzxfycz2677al.png",
+  "list": true,
+  "createdAt": {
+    "$date": "2024-01-18T17:33:28.458Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T17:33:28.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a9610729004ca58b30982d"
+  },
+  "speciality": "Cardiology",
+  "photo": "https://res.cloudinary.com/dw1jgcrsp/image/upload/v1705599239/specialitysvg/aaadagjus7c5hl4upxyv.png",
+  "list": true,
+  "createdAt": {
+    "$date": "2024-01-18T17:33:59.742Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T17:33:59.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a9612f29004ca58b309832"
+  },
+  "speciality": "Pulmonology",
+  "photo": "https://res.cloudinary.com/dw1jgcrsp/image/upload/v1705599279/specialitysvg/dzkapvocmjqypivovit3.png",
+  "list": true,
+  "createdAt": {
+    "$date": "2024-01-18T17:34:39.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T17:34:39.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb15f04300827e12c8d1ae"
+  },
+  "speciality": "Dermatology",
+  "photo": "https://res.cloudinary.com/jahsid/image/upload/v1707808241/specialitysvg/r0agmk9rxcb9xmgafhux.jpg",
+  "list": false,
+  "createdAt": {
+    "$date": "2024-02-13T07:10:40.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-18T06:20:48.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2ede274d4e565cd545840"
+  },
+  "speciality": "skin",
+  "photo": "https://res.cloudinary.com/jahsid/image/upload/v1708322276/specialitysvg/cbhemvajtuyowkjxm04r.png",
+  "list": false,
+  "createdAt": {
+    "$date": "2024-02-19T05:57:54.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T05:58:38.983Z"
+  },
+  "__v": 0
+}]

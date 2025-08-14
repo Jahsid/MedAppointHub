@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65c91d8da300d59b3c2dfe29"
+  },
+  "patientName": "lisa",
+  "doctorName": "Muhammed Jahsid",
+  "date": "2/12/2024",
+  "age": "30",
+  "gender": "female",
+  "complaint": "Lisa presents with complaints of persistent abdominal pain, bloating, and occasional nausea for the past three months. She reports experiencing postprandial discomfort and has noticed an unintentional weight loss of 10 lbs over the past two months. She denies any history of hematemesis, melena, or changes in bowel habits.",
+  "weight": "66",
+  "medicalHistory": "Hypothyroidism, Seasonal allergies",
+  "diagnosis": "Based on the clinical presentation and investigation results, the patient is diagnosed with peptic ulcer disease (PUD), likely secondary to nonsteroidal anti-inflammatory drug (NSAID) use for her seasonal allergies.",
+  "investigation": "Thyroid function tests, Complete blood count (CBC), Comprehensive metabolic panel (CMP), Upper endoscopy (EGD)",
+  "appointmentId": "65c8e5b1cc7b4c6ce0907e0d",
+  "additionalInfo": "Lisa is advised to discontinue NSAID use and switch to alternative medications for her allergies. Prescribed proton pump inhibitor (PPI) for gastric acid suppression. Dietary modifications recommended to alleviate symptoms of PUD. Follow-up scheduled in two weeks to monitor response to treatment and reassess symptoms.",
+  "createdAt": {
+    "$date": "2024-02-11T19:18:37.777Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:18:37.777Z"
+  },
+  "__v": 0
+}]

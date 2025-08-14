@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "65aabb5395c5257e7ddb8dc8"
+  },
+  "doctor": {
+    "$oid": "65a9620729004ca58b309838"
+  },
+  "user": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-01-19T18:11:31.992Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T18:11:31.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abbee7490f5829fcd0ecf5"
+  },
+  "doctor": {
+    "$oid": "65aacb439979197bef4209db"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-01-20T12:39:03.701Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T12:39:03.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71c615627a9b82e23c3eb"
+  },
+  "doctor": {
+    "$oid": "65aacb439979197bef4209db"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-10T06:49:05.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:49:05.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8d3f36541fa99abab29e6"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-11T14:04:35.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:04:35.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e5b1cc7b4c6ce0907e08"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-11T15:20:17.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:20:17.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb127e4300827e12c8d189"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-13T06:55:58.916Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T06:55:58.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc60789560250120f45c64"
+  },
+  "doctor": {
+    "$oid": "65cc5dd99560250120f45b7d"
+  },
+  "user": {
+    "$oid": "65cc5fcb9560250120f45c13"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-14T06:40:56.090Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:40:56.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc80346f298da1cb207588"
+  },
+  "doctor": {
+    "$oid": "65cc5dd99560250120f45b7d"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-14T08:56:20.501Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T08:56:20.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cda5da118635e284ad716e"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-15T05:49:14.761Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T05:49:14.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d05a94581d9dc2b9957464"
+  },
+  "doctor": {
+    "$oid": "65aacb439979197bef4209db"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-17T07:04:52.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-17T07:04:52.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d1f0a42a329cba1f1e6d82"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-18T11:57:24.161Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-18T11:57:24.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2d9ad087967a337ce3892"
+  },
+  "doctor": {
+    "$oid": "65aa13d67e53dfee02291975"
+  },
+  "user": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "price": "299",
+  "status": true,
+  "createdAt": {
+    "$date": "2024-02-19T04:31:41.952Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T04:31:41.952Z"
+  },
+  "__v": 0
+}]

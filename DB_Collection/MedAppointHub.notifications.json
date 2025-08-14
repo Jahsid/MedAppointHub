@@ -1,0 +1,976 @@
+[{
+  "_id": {
+    "$oid": "65aabb5495c5257e7ddb8dcf"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "createdAt": {
+    "$date": "2024-01-19T18:11:32.029Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T18:11:32.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aacda39979197bef420a82"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "createdAt": {
+    "$date": "2024-01-19T19:29:39.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T19:29:39.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aace309979197bef420a94"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "createdAt": {
+    "$date": "2024-01-19T19:32:00.532Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T19:32:00.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aacfdc9979197bef420af3"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "createdAt": {
+    "$date": "2024-01-19T19:39:08.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T19:39:08.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aad0419979197bef420b23"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "createdAt": {
+    "$date": "2024-01-19T19:40:49.209Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T19:40:49.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aad0a29979197bef420b86"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "createdAt": {
+    "$date": "2024-01-19T19:42:26.181Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T19:42:26.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65aad0b09979197bef420b91"
+  },
+  "text": "Your appointment cancelled by doctor ",
+  "userId": {
+    "$oid": "65a95eb429004ca58b30980e"
+  },
+  "createdAt": {
+    "$date": "2024-01-19T19:42:40.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T19:42:40.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abbee7490f5829fcd0ecfc"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-01-20T12:39:03.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T12:39:03.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65abbfb6490f5829fcd0ed42"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-01-20T12:42:30.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-20T12:42:30.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c49714114464ad6a43516d"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-08T08:55:48.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-08T08:55:48.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71c615627a9b82e23c3f3"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-10T06:49:05.611Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:49:05.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71c775627a9b82e23c401"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-10T06:49:27.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:49:27.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71c825627a9b82e23c404"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-10T06:49:38.070Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:49:38.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71cd25627a9b82e23c409"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-10T06:50:58.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:50:58.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71e5d4b5b8228ec5c187c"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-10T06:57:33.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:57:33.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71eb54b5b8228ec5c187f"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-10T06:59:01.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T06:59:01.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c71f214b5b8228ec5c1895"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-10T07:00:49.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T07:00:49.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8d3f36541fa99abab29ec"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T14:04:35.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:04:35.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8d4176541fa99abab29f4"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T14:05:11.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:05:11.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8d4336541fa99abab29f9"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T14:05:39.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:05:39.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e0e8cc7b4c6ce0907d91"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T14:59:52.409Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T14:59:52.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e106cc7b4c6ce0907d9c"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T15:00:22.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:00:22.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e5b1cc7b4c6ce0907e0f"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T15:20:17.079Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:20:17.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e5c1cc7b4c6ce0907e17"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T15:20:33.705Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:20:33.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e61acc7b4c6ce0907e20"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T15:22:02.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:22:02.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c8e658cc7b4c6ce0907e3b"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T15:23:04.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T15:23:04.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91312a300d59b3c2dfd63"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T18:33:54.503Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T18:33:54.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91342a300d59b3c2dfd74"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T18:34:42.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T18:34:42.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c913bca300d59b3c2dfd8e"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T18:36:44.757Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T18:36:44.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91957a300d59b3c2dfe22"
+  },
+  "text": "Your appointment marked as done ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:00:39.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:00:39.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91d8da300d59b3c2dfe2b"
+  },
+  "text": "Your medical report added by doctor ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:18:37.784Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:18:37.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91d99a300d59b3c2dfe30"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:18:49.698Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:18:49.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91e05a300d59b3c2dfe3b"
+  },
+  "text": "Profile picture updated successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:20:37.535Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:20:37.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91e13a300d59b3c2dfe40"
+  },
+  "text": "Profile picture updated successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:20:51.124Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:20:51.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91e23a300d59b3c2dfe44"
+  },
+  "text": "Profile details successfully edited",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:21:07.476Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:21:07.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91f73a300d59b3c2dfe50"
+  },
+  "text": "Your review successfuly added",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:26:43.912Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:26:43.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c91f9ba300d59b3c2dfe68"
+  },
+  "text": "Profile details successfully edited",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:27:23.602Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:27:23.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c92118a300d59b3c2dfebe"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:33:44.288Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:33:44.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c92183a300d59b3c2dfeeb"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:35:31.364Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:35:31.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c921efa300d59b3c2dfefb"
+  },
+  "text": "Your appointment has been rescheduled by doctor ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:37:19.061Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:37:19.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c9220da300d59b3c2dff02"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-11T19:37:49.428Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T19:37:49.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb127e4300827e12c8d193"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-13T06:55:58.963Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T06:55:58.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb80ec99c9b480d0937ce2"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-13T14:47:08.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T14:47:08.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb81b699c9b480d0937d1b"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-13T14:50:30.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T14:50:30.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cba0bf99c9b480d0937d53"
+  },
+  "text": "Your appointment has been rescheduled by doctor ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-13T17:02:55.016Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T17:02:55.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cba15199c9b480d0937d5a"
+  },
+  "text": "Your appointment has been rescheduled by doctor ",
+  "userId": {
+    "$oid": "65aaca779979197bef4209cf"
+  },
+  "createdAt": {
+    "$date": "2024-02-13T17:05:21.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-13T17:05:21.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc60789560250120f45c6a"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65cc5fcb9560250120f45c13"
+  },
+  "createdAt": {
+    "$date": "2024-02-14T06:40:56.218Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:40:56.218Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc60a79560250120f45c78"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65cc5fcb9560250120f45c13"
+  },
+  "createdAt": {
+    "$date": "2024-02-14T06:41:43.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:41:43.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc60e79560250120f45c96"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65cc5fcb9560250120f45c13"
+  },
+  "createdAt": {
+    "$date": "2024-02-14T06:42:47.100Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:42:47.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc80346f298da1cb20758e"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-14T08:56:20.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T08:56:20.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc9e92edf5704e88e4e3aa"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-14T11:05:54.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T11:05:54.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cda5da118635e284ad7178"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-15T05:49:14.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T05:49:14.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cda5e6118635e284ad717e"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-15T05:49:26.968Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T05:49:26.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cdcb86e73fb0469fee2c94"
+  },
+  "text": "Your appointment marked as done ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-15T08:29:58.310Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T08:29:58.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cdcbbee73fb0469fee2ca1"
+  },
+  "text": "Your prescription added by doctor",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-15T08:30:54.161Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-15T08:30:54.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d05a94581d9dc2b995746f"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-17T07:04:52.769Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-17T07:04:52.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d19c8ceaae2b1f6af127b6"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-18T05:58:36.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-18T05:58:36.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d1efd92a329cba1f1e6c9e"
+  },
+  "text": "Doctor created a chat room with you ",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-18T11:54:01.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-18T11:54:01.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d1f0a42a329cba1f1e6d8d"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-18T11:57:24.199Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-18T11:57:24.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2d9ad087967a337ce389d"
+  },
+  "text": "Your appointment successfully done",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-19T04:31:41.989Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T04:31:41.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d2db7e087967a337ce3904"
+  },
+  "text": "Your chat created successfully",
+  "userId": {
+    "$oid": "65c8e4a7cc7b4c6ce0907de3"
+  },
+  "createdAt": {
+    "$date": "2024-02-19T04:39:26.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-19T04:39:26.974Z"
+  },
+  "__v": 0
+}]
